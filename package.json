@@ -1,5 +1,5 @@
 {
-  "name": "@smartsolutionsitaly/node-srv",
+  "name": "@smartsolutionsitaly/node-test-server",
   "version": "1.0.0",
   "deprecated": false,
   "description": "A simple Node.js test server.",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smartsolutionsitaly/node-srv.git"
+    "url": "git+https://github.com/smartsolutionsitaly/node-test-server.git"
   },
   "keywords": [
     "Node.js",
@@ -22,9 +22,9 @@
   "author": "Lucio Benini <dev@smartsolutions.it> (https://smartsolutions.it)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/smartsolutionsitaly/node-srv/issues"
+    "url": "https://github.com/smartsolutionsitaly/node-test-server/issues"
   },
-  "homepage": "https://github.com/smartsolutionsitaly/node-srv#readme",
+  "homepage": "https://github.com/smartsolutionsitaly/node-test-server#readme",
   "dependencies": {
     "eslint": "^5.13.0"
   }

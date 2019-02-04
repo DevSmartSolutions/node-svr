@@ -1,8 +1,10 @@
 {
   "name": "node-srv",
   "version": "1.0.0",
+  "deprecated": false,
   "description": "A simple Node.js test server.",
   "main": "index.js",
+  "private": false,
   "scripts": {
     "start": "node index.js"
   },

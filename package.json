@@ -1,0 +1,29 @@
+{
+  "name": "node-srv",
+  "version": "1.0.0",
+  "description": "A simple Node.js test server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "config": {
+    "port": 8080
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartsolutionsitaly/node-srv.git"
+  },
+  "keywords": [
+    "Node.js",
+    "server"
+  ],
+  "author": "Lucio Benini <dev@smartsolutions.it> (https://smartsolutions.it)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smartsolutionsitaly/node-srv/issues"
+  },
+  "homepage": "https://github.com/smartsolutionsitaly/node-srv#readme",
+  "dependencies": {
+    "eslint": "^5.13.0"
+  }
+}

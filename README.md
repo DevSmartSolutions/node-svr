@@ -1,7 +1,7 @@
 # node-svr
 
 [![LICENSE](https://img.shields.io/github/license/smartsolutionsitaly/node-svr.svg)](LICENSE)
-[![node](https://img.shields.io/node/v/@/smartsolutionsitaly/node-svr.svg?style=flat)](https://www.npmjs.com/package/@smartsolutionsitaly/vue-socialsharing)
+[![node](https://img.shields.io/node/v/@/smartsolutionsitaly/node-svr.svg?style=flat)](https://www.npmjs.com/package/@smartsolutionsitaly/node-svr)
 [![issues](https://img.shields.io/github/issues/smartsolutionsitaly/node-svr.svg)](https://github.com/smartsolutionsitaly/node-svr/issues)
 
 A simple Node.js test server.

@@ -1,6 +1,7 @@
 # node-test-server
 
 [![LICENSE](https://img.shields.io/github/license/smartsolutionsitaly/node-test-server.svg)](LICENSE)
+[![NPM](https://img.shields.io/badge/npm-%40smartsolutionsitaly%2Fnode--test--server-brightgreen.svg)](https://github.com/smartsolutionsitaly/node-test-server)
 [![issues](https://img.shields.io/github/issues/smartsolutionsitaly/node-test-server.svg)](https://github.com/smartsolutionsitaly/node-test-server/issues)
 
 A simple Node.js test server.
